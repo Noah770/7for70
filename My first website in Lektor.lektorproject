@@ -7,4 +7,8 @@ locale = fr_FR
 target = ghpages+https://github.com/Noah770/7for70.git
 
 ---
-
+[servers.production]
+name = Production
+enabled = yes
+default = yes
+target = rsync://github.com/Noah770/7for70.git
