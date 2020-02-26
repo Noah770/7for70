@@ -1,0 +1,10 @@
+[project]
+name = My first website in Lektor
+locale = fr_FR
+
+---
+[servers.ghpages]
+target = ghpages+https://github.com/Noah770/7for70.git
+
+---
+
